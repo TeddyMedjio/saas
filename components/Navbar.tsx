@@ -1,7 +1,6 @@
 import Image from "next/image";
 import Button from "./Button";
 import Link from "next/link";
-import { HandThumbUpIcon } from "@heroicons/react/20/solid";
 import { Bars2Icon } from "@heroicons/react/20/solid";
 
 export default function Navbar() {
