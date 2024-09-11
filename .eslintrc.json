@@ -2,9 +2,7 @@
 //   "extends": ["next/core-web-vitals", "next/typescript"]
 // }
 {
-  "extends": "next",
   "rules": {
-    "next/typescript": "off",
     "@typescript-eslint/no-explicit-any": "off"
   }
 }
