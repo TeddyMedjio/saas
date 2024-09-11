@@ -4,6 +4,7 @@
 {
   "extends": "next",
   "rules": {
+    "next/typescript": "off",
     "@typescript-eslint/no-explicit-any": "off"
   }
 }
