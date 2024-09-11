@@ -51,7 +51,7 @@ export default function Footer() {
           />
         </div>
         <div className="text-center max-w-[540px] space-y-4 ">
-          <h2 className=" text-[32px] md:text-h2 text-white font-bold">
+          <h2 className=" font-sans text-[32px] md:text-h2 text-white font-bold">
             Get instant access
           </h2>
           <p className="text-[#BBBBBB]">
