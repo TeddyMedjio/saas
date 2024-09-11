@@ -4,7 +4,7 @@ export default function Logos() {
   return (
     <div className="mx-auto container px-10 lg:px-0 my-10 md:my-10">
       <div className="w-full">
-        <p className=" text-center font-inter text-body_s text-[#7A7A7A] mb-[38px]">
+        <p className=" text-center font-inter text-body_s md:text-base text-[#7A7A7A] mb-[38px]">
           Trusted by the world’s most innovative teams
         </p>
         <div className=" flex items-center justify-center lg:justify-between flex-wrap gap-4">
