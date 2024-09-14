@@ -13,10 +13,10 @@ export default function Services() {
   return (
     <div className="py-[40px] lg:py-[120px] px-4 flex flex-col items-center justify-center">
       <div className="flex flex-col items-center justify-center max-w-[580px] text-center gap-5">
-        <h2 className=" text-[32px] font-dm_sans md:text-h2 text-white font-bold">
+        <h2 className=" text-[38px] leading-10 font-dm_sans md:text-h2 text-white font-bold">
           Everything you need
         </h2>
-        <p className=" text-base md:text-body_large font-inter text-gray-50">
+        <p className=" text-base leading-7 md:text-body_large font-inter text-gray-50">
           Enjoy customizable lists, team work tools, and smart tracking all in
           one place. Set tasks, get reminders, and see your progress simply and
           quickly.

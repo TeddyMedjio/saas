@@ -5,11 +5,11 @@ export default function Product() {
   return (
     <div className="gradient-product">
       <div className="mx-auto container py-[40px] lg:py-[120px] px-4 flex flex-col items-center justify-center">
-        <div className="flex flex-col items-center justify-center max-w-[580px] text-center gap-5">
-          <h2 className=" text-[32px] md:text-h2 text-white font-dm_sans font-bold">
+        <div className="flex flex-col items-center justify-center max-w-[580px] text-center gap-4">
+          <h2 className=" text-[38px] md:text-h2 text-white font-dm_sans font-bold">
             Intuitive interface
           </h2>
-          <p className=" text-base md:text-body_large font-inter leading-8 text-gray-50">
+          <p className=" text-base md:text-body_large font-inter leading-7 text-gray-50">
             Celebrate the joy of accomplishment with an app designed to track
             your progress, motivate your efforts, and celebrate your successes,
             one task at a time.
@@ -27,7 +27,7 @@ export default function Product() {
           />
         </div>
         <div className=" w-[95%] md:w-[90%] lg:w-[60%] mt-20 lg:mt-28">
-          <h2 className=" text-[32px] md:text-h2 text-white font-dm_sans font-bold text-center mb-10 ">
+          <h2 className=" text-[38px] leading-10 md:leading-normal md:text-h2 text-white font-dm_sans font-bold text-center mb-10 ">
             Frequently asked questions
           </h2>
           <Faq />
