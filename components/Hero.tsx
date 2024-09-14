@@ -37,7 +37,7 @@ export default function Hero() {
             </div>
             <ArrowRightIcon className="text-white size-4" />
           </div>
-          <h1 className=" text-7xl font-sans leading-[4.313rem] md:text-h1 text-white font-bold md:leading-[7.813rem] tracking-[-0.08em]">
+          <h1 className=" text-7xl font-dm_sans leading-[4.313rem] md:text-h1 text-white font-bold md:leading-[7.813rem] tracking-[-0.08em]">
             One Task at a Time
           </h1>
           <p className="text-white text-xl md:text-body_large font-inter leading-9 tracking-wide max-w-[520px]">

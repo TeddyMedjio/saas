@@ -51,10 +51,10 @@ export default function Footer() {
           />
         </div>
         <div className="text-center max-w-[540px] space-y-4 ">
-          <h2 className=" font-sans text-[32px] md:text-h2 text-white font-bold">
+          <h2 className=" font-dm_sans text-[32px] md:text-h2 text-white font-bold">
             Get instant access
           </h2>
-          <p className="text-[#BBBBBB]">
+          <p className="text-[#BBBBBB] font-inter">
             Celebrate the joy of accomplishment with an app designed to track
             your progress and motivate your efforts.
           </p>
@@ -82,7 +82,7 @@ export default function Footer() {
       </div>
       <div className=" border-t border-[#202020] mt-10 py-5 flex items-center justify-center px-4">
         <div className="flex flex-col items-center justify-center md:flex-row md:justify-between w-full">
-          <p className="text-[#808080]">
+          <p className="text-[#808080] font-inter">
             {" "}
             ©{new Date().getFullYear()} Task App, Inc All rights reserved
           </p>

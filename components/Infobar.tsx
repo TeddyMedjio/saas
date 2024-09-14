@@ -4,11 +4,11 @@ export default function Infobar() {
   return (
     <div className="w-full h-12 background-gradient flex items-center justify-center gap-1">
       <div className="flex items-center gap-2">
-        <p className="font-sans text-body_s hidden md:block">
+        <p className="font-inter text-body_s hidden md:block">
           This page is included in a free SaaS Website Kit.{" "}
         </p>
 
-        <Link href="/" className="font-sans text-body_s underline ">
+        <Link href="/" className="font-inter text-body_s underline ">
           View the complete Kit
         </Link>
       </div>
