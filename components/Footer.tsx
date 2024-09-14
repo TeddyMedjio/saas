@@ -82,7 +82,7 @@ export default function Footer() {
       </div>
       <div className=" border-t border-[#202020] mt-10 py-5 flex items-center justify-center px-4">
         <div className="flex flex-col items-center justify-center md:flex-row md:justify-between w-full">
-          <p className="text-[#808080] font-inter">
+          <p className="text-[#808080] font-inter mb-2 md:mb-0">
             {" "}
             ©{new Date().getFullYear()} Task App, Inc All rights reserved
           </p>

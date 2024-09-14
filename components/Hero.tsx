@@ -38,7 +38,7 @@ export default function Hero() {
             <ArrowRightIcon className="text-white size-4" />
           </div>
           <h1 className=" text-8xl font-dm_sans leading-[5rem] md:text-h1 text-white font-bold md:leading-[7.813rem] tracking-[-0.08em]">
-            One Task at a Time
+            One Task at <br className="md:hidden" /> a Time
           </h1>
           <p className="text-white text-xl md:text-body_large font-inter leading-7 tracking-wide max-w-[520px]">
             Celebrate the joy of accomplishment with an app designed to track
